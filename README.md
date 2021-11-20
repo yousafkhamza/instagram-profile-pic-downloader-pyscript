@@ -48,7 +48,7 @@ Image URL Generating.....
 Image URL is: https://ibb.co/xxxxxx
 ```
 _visual output_
-![alt_txt](https://i.ibb.co/PM5LGYC/output.gif)
+![alt_txt](https://i.ibb.co/Fb8NKhN/output.gif)
 
 ----
 ## Conclusion
