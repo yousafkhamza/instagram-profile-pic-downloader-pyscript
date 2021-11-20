@@ -16,14 +16,14 @@ This is a python based script that is used to download Instagram profile picture
 - python 3.x
 
 #### How to Install Python
-[Installation Guide]("https://www.python.org/downloads/")
+[Installation Guide](https://www.python.org/downloads/)
 
 ----
 ## Modules Used
-- [requests]("https://pypi.org/project/requests/")
-- [json]("https://docs.python.org/3/library/json.html")
-- [base64]("https://docs.python.org/3/library/base64.html")
-- [os]("https://docs.python.org/3/library/os.html")
+- [requests](https://pypi.org/project/requests/)
+- [json](https://docs.python.org/3/library/json.html)
+- [base64](https://docs.python.org/3/library/base64.html)
+- [os](https://docs.python.org/3/library/os.html)
 
 ---
 ## How to Get
