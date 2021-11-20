@@ -46,7 +46,7 @@ python3 instapic.py
 Instagram Profile_URL/UserName: https://instagram.com/xxxxx?utm_medium=copy_link    # >>>>> use both URL and UserName
 Image Downloaded under dp Directory!
 Image URL Generating.....
-Image URL is: https://ibb.co/xxxxxx
+Image URL is: https://i.ibb.co/xxxxx/xxxxxxx.jpg
 ```
 _visual output_
 ![](dp/output.gif)
