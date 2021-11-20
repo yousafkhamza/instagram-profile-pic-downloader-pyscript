@@ -15,6 +15,7 @@ This is a python based script that is used to download Instagram profile picture
 ## Pre-Requests
 - python 3.x
 
+----
 #### How to Install Python
 [Installation Guide](https://www.python.org/downloads/)
 
