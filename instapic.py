@@ -30,7 +30,7 @@ if response.ok:
     json_data = json.loads(response.text)
     profile_pic_url=json_data["graphql"]["user"]["profile_pic_url_hd"]
     r = requests.get(profile_pic_url, allow_redirects=True)
-    print("Image Downloaded under dp Direcotory!")
+    print("Image Downloaded under dp Directory!")
     open(f"./dp/{insta_username}.jpeg", 'wb').write(r.content)
     print("Image URL Generating.....")
     with open(f"./dp/{insta_username}.jpeg", "rb") as file:
