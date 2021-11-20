@@ -47,7 +47,7 @@ Image Downloaded under dp Directory!
 Image URL Generating.....
 Image URL is: https://ibb.co/xxxxxx
 ```
-_like_
+_visual output_
 ![alt_txt](https://i.ibb.co/PM5LGYC/output.gif)
 
 ----
