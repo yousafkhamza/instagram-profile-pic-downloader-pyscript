@@ -40,7 +40,7 @@ if response.ok:
             "image": base64.b64encode(file.read()),
             }
         r = requests.post(url, data= payload)
-        view_url=(json.loads(r.text)["data"]["url_viewer"])
+        view_url=(json.loads(r.text)["data"]["display_url"])
         print("Image URL is: "+view_url)
 else:
     print("UserName/Profile URL isn't correct...")
