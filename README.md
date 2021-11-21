@@ -16,15 +16,15 @@ This is a simple python script for an Instagram profile pictures downloader. it'
 - python 3.x
 - python3-pip
 
+#### How to Install Python (for windows)
+[Installation Guide](https://www.python.org/downloads/)
+
+### Pre-Requests (for RedHat-Linux)
 ```
 yum install -y git
 yum install -y python3
 yum install -y python3-pip
 ```
-
-----
-#### How to Install Python
-[Installation Guide](https://www.python.org/downloads/)
 
 ----
 ## Modules Used
