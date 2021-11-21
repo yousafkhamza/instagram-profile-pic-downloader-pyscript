@@ -33,6 +33,15 @@ apt install -y python3
 apt install -y python3-pip
 ````
 
+#### Pre-Requests (for Termux-based-Linux)
+````
+pkg upgrade
+pkg install git
+pkg install python3
+pkg install pip
+````
+> using termux who you guys please install requirments use `pip install -r requirements.txt` don't need to use pip3
+
 ----
 ## Modules Used
 - [requests](https://pypi.org/project/requests/)
